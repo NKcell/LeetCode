@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -5,7 +7,6 @@
  *     Next *ListNode
  * }
  */
-package leetcode
 
 type ListNode struct {
 	Val int
