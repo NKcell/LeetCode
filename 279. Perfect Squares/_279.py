@@ -14,3 +14,5 @@ def solution(n: int) -> int:
                     else:
                         tmp.add(cha)
             mylist = list(tmp)
+
+        return step
