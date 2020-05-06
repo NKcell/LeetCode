@@ -1,0 +1,1 @@
+/Users/kid/Desktop/code/leetcode/1413.\ Minimum\ Value\ to\ Get\ Positive\ Step\ by\ Step\ Sum/leetcode1413/target/debug/leetcode1413: /Users/kid/Desktop/code/leetcode/1413.\ Minimum\ Value\ to\ Get\ Positive\ Step\ by\ Step\ Sum/leetcode1413/src/main.rs
